@@ -1,10 +1,10 @@
-# Sistem-portabil
+# Doctori si administrare pacienti
 
 Instalare proiect
 
 1.Copiaza cod
 ```
-git clone https://github.com/iulianbeleiu/sistem-portabil.git
+git clone https://github.com/iulianbeleiu/pacienti.git
 ```
 
 2.Instaleaza Docker
@@ -12,7 +12,7 @@ git clone https://github.com/iulianbeleiu/sistem-portabil.git
 https://docs.docker.com/get-docker/
 ```
 
-3.Mergi in folderul sistem-portabil din Terminal si ruleaza:
+3.Mergi in folderul pacienti din Terminal si ruleaza:
 ```
 docker-compose up
 ```
